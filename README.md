@@ -25,8 +25,6 @@
 ## Установка
 
 1. Клонируйте репозиторий:
-
-   git clone https://github.com/yourusername/WeatherApp.git
 - Откройте проект в Android Studio.
 - Убедитесь, что у Вас установлена JDK и Android SDK.
 - Настройте файл gradle.properties, указав путь к Вашей JDK:
